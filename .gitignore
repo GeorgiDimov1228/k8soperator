@@ -25,3 +25,13 @@ go.work
 *.swp
 *.swo
 *~
+
+
+bin/
+build/_output/
+vendor/
+*.log
+*.tmp
+*.out
+.DS_Store
+*.swp
